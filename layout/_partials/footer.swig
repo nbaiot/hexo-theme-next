@@ -45,3 +45,7 @@
   #}{{ theme.footer.custom_text }}{#
 #}</div>
 {% endif %}
+
+<div style="width:200px;margin:0 auto; padding:10px 0;">
+    <a target="_blank" href="http://www.beian.miit.gov.cn/"  rel="nofollow">京ICP备19041508号-1</a>
+</div>
